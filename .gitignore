@@ -31,6 +31,8 @@ yarn.lock
 package-lock.json
 pnpm-lock.yaml
 .doc
+docs-dist
+.vercel
 .storybook
 
 # umi
@@ -39,3 +41,6 @@ pnpm-lock.yaml
 .umi-test
 .env.local
 .dumi/
+coverage
+.dumi/tmp
+.dumi/tmp-production
